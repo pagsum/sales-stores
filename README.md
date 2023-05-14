@@ -13,7 +13,7 @@
 
 ## About The Project
 
-![Screen Shot](sales-stores.png)
+![Screen Shot](sales-stores-webpage.png)
 
 This project is made with Tailwind CSS only
 
